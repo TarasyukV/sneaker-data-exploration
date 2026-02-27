@@ -8,7 +8,7 @@
 ## Dataset Information
 - Source: [Kaggle – 500 Sneakers Dataset](https://www.kaggle.com/datasets/comhek/500-snickers-dataset?select=snicker_dataset_with_dates.csv)
 - Rows: 500
-## Fields(after cleaning/transformation)
+# Fields(after cleaning/transformation)
 - Name
 - Type
 - Total sold
