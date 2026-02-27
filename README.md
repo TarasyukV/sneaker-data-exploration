@@ -35,7 +35,7 @@ By combining SQL-based data aggregation with business-oriented metrics, this ana
 
 Before building the dashboard, the dataset was cleaned and prepared to ensure analytical consistency and business relevance.
 
-### REMOVED COLUMNS 
+#### REMOVED COLUMNS 
 The following columns were excluded as they did not add value to the intended level of analysis:
 
 - `Snapshot_Date`
@@ -47,14 +47,14 @@ The following columns were excluded as they did not add value to the intended le
 
 Since the analysis focuses on monthly and quarterly trends, daily-level granularity was considered unnecessary.
 
-### RENAMING & STANDARTIZATION 
+#### RENAMING & STANDARTIZATION 
 
 - `Unsold_Inventory` was renamed to `Total unsold` for consistency.
 - `Gender` values were standardized to `M` and `F`.
 - Special characters (apostrophes) were removed from product names to ensure compatibility with PostgreSQL.
 - Revenue columns were formatted for clarity and better visualization in Tableau.
 
-### CRATED BUISNESS METRICS 
+#### CRATED BUISNESS METRICS 
 
 To enhance business analysis, additional calculated fields were introduced:
 
