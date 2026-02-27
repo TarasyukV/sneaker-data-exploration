@@ -7,6 +7,8 @@ This project explores a dataset of 500 sneaker models to analyze revenue perform
 
 By combining SQL-based data aggregation with business-oriented metrics, this analysis highlights which models truly drive revenue and which factors may limit performance.
 
+# TABLE OF CONTENT
+- [INTRODUCTION](#INTRODUCTION)
 
 
 ## DATASET INFORMATION 
