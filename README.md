@@ -66,7 +66,7 @@ To enhance business analysis, additional calculated fields were introduced:
 
 - **Unrealized Revenue**  
   `(total_produced - total_sold - damaged) * price`  
-  Represents capital tied in unsold inventory.
+  Represents capital tied in unsold items.
 
 - **Unrealized Revenue(Damaged)**  
   `damaged * price`  
