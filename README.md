@@ -7,7 +7,7 @@ This project analyzes a dataset of 500 sneaker models to evaluate sales performa
 
 The objective is to identify top-performing models, assess operational risks such as damaged and unsold inventory, and understand how different editions and price segments impact overall profitability.
 
-Data cleaning and transformation were performed in PostgreSQL, and the final analytical dashboard was developed in Tableau to generate structured, business-oriented insights.
+Data cleaning and transformation were performed in Power Query and PostgreSQL, and the final analytical dashboard was developed in Tableau to generate structured, business-oriented insights.
 
 
 
