@@ -9,7 +9,7 @@ By combining SQL-based data aggregation with business-oriented metrics, this ana
 
 # TABLE OF CONTENT
 - [INTRODUCTION](#INTRODUCTION)
-- [DATASET INFORMATION](#DATASETINFORMATION)
+- [DATASET INFORMATION](#dataset-information)
 - [DATA CLEANING & TRANSFORMATION](#DATA-CLEANING--TRANSFORMATION)
 
 
@@ -49,16 +49,16 @@ The following columns were excluded as they did not add value to the intended le
 - `Performance_Score`
 - `Sneaker_Grade`
 
-Since the analysis focuses on monthly and quarterly trends, daily-level granularity was considered unnecessary.
+Since the analysis focuses on monthly and quarterly trends, daily-level granularity was removed as unnecessary.
 
-#### RENAMING & STANDARTIZATION 
+#### RENAMING & STANDARDIZATION
 
 - `Unsold_Inventory` was renamed to `Total unsold` for consistency.
 - `Gender` values were standardized to `M` and `F`.
 - Special characters (apostrophes) were removed from product names to ensure compatibility with PostgreSQL.
 - Revenue columns were formatted for clarity and better visualization in Tableau.
 
-#### CRATED BUISNESS METRICS 
+#### CREATED BUSINESS METRICS
 
 To enhance business analysis, additional calculated fields were introduced:
 
