@@ -1,8 +1,13 @@
 # Sneaker-data-exploration
 ## Project Overview
 
-This project analyzes a dataset of 500 sneaker models to evaluate sales performance, revenue drivers, inventory efficiency, and seasonal trends.
-The data was cleaned and transformed using PostgreSQL, and the final dashboard was developed in Tableau to generate business-oriented insights.
+## 📌 Project Overview
+
+This project analyzes a dataset of 500 sneaker models to evaluate sales performance, revenue drivers, inventory efficiency, and seasonal demand patterns.
+
+The objective is to identify top-performing models, assess operational risks such as damaged and unsold inventory, and understand how different editions and price segments impact overall profitability.
+
+Data cleaning and transformation were performed in PostgreSQL, and the final analytical dashboard was developed in Tableau to generate structured, business-oriented insights.
 
 
 
