@@ -11,6 +11,7 @@ By combining SQL-based data aggregation with business-oriented metrics, this ana
 - [INTRODUCTION](#INTRODUCTION)
 - [DATASET INFORMATION](#dataset-information)
 - [DATA CLEANING & TRANSFORMATION](#DATA-CLEANING--TRANSFORMATION)
+
 ---
 
 ## DATASET INFORMATION 
