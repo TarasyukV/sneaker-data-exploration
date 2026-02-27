@@ -1,17 +1,19 @@
-# Sneaker-data-exploration
-## Project Overview
+# Sneaker-Data-Exploration
+## INTRODUCTION
 
-This project analyzes a dataset of 500 sneaker models to evaluate sales performance, revenue drivers, inventory efficiency, and seasonal demand patterns.
+The global sneaker market is highly competitive, with brands constantly balancing demand, inventory levels, and product condition. While some models generate strong revenue and high sell-through rates, others underperform due to damage rates, overproduction, or seasonal fluctuations.
 
-The objective is to identify top-performing models, assess operational risks such as damaged and unsold inventory, and understand how different editions and price segments impact overall profitability.
+This project explores a dataset of 500 sneaker models to analyze revenue performance, sales efficiency, inventory health, and seasonality patterns. The goal is to identify high-performing models, measure the financial impact of product damage, and uncover trends that influence overall profitability.
 
-Data cleaning and transformation were performed in Power Query and PostgreSQL, and the final analytical dashboard was developed in Tableau to generate structured, business-oriented insights.
+By combining SQL-based data aggregation with business-oriented metrics, this analysis highlights which models truly drive revenue and which factors may limit performance.
 
-## Dataset Information
+
+
+## DATASET INFORMATION 
 - Source: [Kaggle – 500 Sneakers Dataset](https://www.kaggle.com/datasets/comhek/500-snickers-dataset?select=snicker_dataset_with_dates.csv)
 - Rows: 500
-#### Fields(after cleaning/transformation)
-- Name
+#### FIELDS(after cleaning/transformation)
+- Name 
 - Type
 - Total sold
 - Total unsold
@@ -29,11 +31,11 @@ Data cleaning and transformation were performed in Power Query and PostgreSQL, a
 - Unrealized Revenue(Damaged)
 - Price bucket
 
-## Data Cleaning & Transformation
+## DATA CLEANING & TRANSFORMATION
 
 Before building the dashboard, the dataset was cleaned and prepared to ensure analytical consistency and business relevance.
 
-### Removed Columns
+### REMOVED COLUMNS 
 The following columns were excluded as they did not add value to the intended level of analysis:
 
 - `Snapshot_Date`
@@ -45,14 +47,14 @@ The following columns were excluded as they did not add value to the intended le
 
 Since the analysis focuses on monthly and quarterly trends, daily-level granularity was considered unnecessary.
 
-### Renaming & Standardization
+### RENAMING & STANDARTIZATION 
 
 - `Unsold_Inventory` was renamed to `Total unsold` for consistency.
 - `Gender` values were standardized to `M` and `F`.
 - Special characters (apostrophes) were removed from product names to ensure compatibility with PostgreSQL.
 - Revenue columns were formatted for clarity and better visualization in Tableau.
 
-### Created Business Metrics
+### CRATED BUISNESS METRICS 
 
 To enhance business analysis, additional calculated fields were introduced:
 
