@@ -1,8 +1,6 @@
 # Sneaker-data-exploration
 ## Project Overview
 
-## 📌 Project Overview
-
 This project analyzes a dataset of 500 sneaker models to evaluate sales performance, revenue drivers, inventory efficiency, and seasonal demand patterns.
 
 The objective is to identify top-performing models, assess operational risks such as damaged and unsold inventory, and understand how different editions and price segments impact overall profitability.
