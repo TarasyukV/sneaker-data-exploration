@@ -11,7 +11,7 @@ By combining SQL-based data aggregation with business-oriented metrics, this ana
 - [INTRODUCTION](#INTRODUCTION)
 - [DATASET INFORMATION](#dataset-information)
 - [DATA CLEANING & TRANSFORMATION](#DATA-CLEANING--TRANSFORMATION)
-
+---
 
 ## DATASET INFORMATION 
 - Source: [Kaggle – 500 Sneakers Dataset](https://www.kaggle.com/datasets/comhek/500-snickers-dataset?select=snicker_dataset_with_dates.csv)
