@@ -40,7 +40,8 @@ By combining SQL-based data aggregation with business-oriented metrics, this ana
 - Sales percent
 - Damage percent
 - Estimated revenue
-- Total unrealized revenue
+- Unrealized revenue
+- Unrealized revenue(damaged)
 - Price bucket
 
 ## DATA CLEANING & TRANSFORMATION
