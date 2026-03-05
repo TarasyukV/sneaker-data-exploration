@@ -1,5 +1,6 @@
 # Sneaker-Data-Exploration
-<img width="1309" height="809" alt="image" src="https://github.com/user-attachments/assets/f9a4cf4c-8bca-4e6c-a21c-38adf72011e2" />
+<img width="1309" height="809" alt="image" src="https://github.com/user-attachments/assets/f9a4cf4c-8bca-4e6c-a21c-38adf72011e2" /> <img width="1289" height="786" alt="image" src="https://github.com/user-attachments/assets/7cd72ddc-a396-43bd-a13d-8b8b885facb4" />
+
 
 
 
