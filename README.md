@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="https://public.tableau.com/app/profile/volodymyr.tarasyuk/viz/SneakersDashboard/Charts">
-  <img src="assets/dashboard_main.png" width="900" alt="Sneakers Dashboard Preview"/>
+  <img src="assets/main.jpg" width="900"/>
 </a>
 </p>
 
