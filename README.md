@@ -103,49 +103,46 @@ To enhance business analysis, additional calculated fields were introduced:
   `damaged * price`  
   Estimates revenue lost due to damaged units.
 
-## DASHBOARD STRUCTURE
+## Dashboard Structure
 
-The interactive dashboard was designed to provide a clear overview of sneaker market performance, focusing on revenue generation, operational efficiency, and seasonal demand patterns.
-
-The dashboard consists of several key analytical components:
+This interactive dashboard provides a comprehensive view of sneaker market performance over 10 years, focusing on revenue, operational efficiency, and seasonal demand.
 
 ### KPI Section
+Three dynamic KPI cards summarize key metrics for the selected year:
 
-Three dynamic KPI cards summarize key performance indicators for the selected year:
+- Total Revenue with year-over-year comparison  
+- Average Price Trend  
+- Total Production with Damage Rate  
 
-- **Total Revenue** with year-over-year comparison
-- **Average Price Trend**
-- **Total Production with Damage Rate**
-
-Each KPI reacts to the selected year parameter and highlights growth or decline using directional indicators.
+Each KPI updates automatically based on the selected year.
 
 ### Revenue Comparison Chart
+Compares realized revenue with unrealized revenue for top-performing sneaker models, including:
 
-This chart compares **realized revenue** with **unrealized revenue** across the top-performing sneaker models.
+- Revenue lost due to damaged units  
+- Revenue tied in unsold inventory  
 
-Unrealized revenue includes:
-
-- revenue lost due to damaged units
-- revenue tied in unsold inventory
-
-This visualization helps identify models where operational inefficiencies significantly impact profitability.
+This helps identify models where operational inefficiencies impact profitability.
 
 ### Seasonality Analysis
-
-A seasonal breakdown visualizes sales distribution across the four quarters of the year.
-
-This allows the identification of peak demand periods and potential seasonal trends in sneaker sales.
+Displays quarterly sales distribution to identify peak demand periods and seasonal trends.
 
 ### Top 10 Models Page
+Highlights the top 10 sneaker models based on revenue performance, filtered by above-average sales and below-average damage rates.
 
-A secondary dashboard highlights the **Top 10 sneaker models** based on revenue performance.
+---
 
-The selection criteria include:
+## Dashboard Recommendations & Key Observations
 
-- above-average sales percentage
-- below-average damage percentage
+This dashboard is designed for **interactive exploration** of 10 years of sneaker sales data:
 
-This ensures that only **efficient and high-performing models** are highlighted.
+- Use the year filter to compare trends, sales, and top brands across different years.  
+- Track changes in average prices and sales volumes to identify growth or decline patterns.  
+- Pay attention to damaged items to assess potential risks and operational issues.  
+- Explore top-performing brands and models using dynamic sorting and filters.  
+- Switch between years and categories to discover trends without relying on a single fixed insight.  
+
+> The dashboard supports flexible, on-demand analysis rather than static conclusions, providing a practical tool for business decisions and trend evaluation.
 
 ## TOOLS USED
 
