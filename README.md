@@ -20,7 +20,7 @@
 - [DATASET INFORMATION](#dataset-information)
 - [DATA CLEANING & TRANSFORMATION](#DATA-CLEANING-TRANSFORMATION)
 - [DASHBOARD STRUCTURE](#DASHBOARD-STRUCTURE)
-- [DASHBOARD RECOMMENDATIONS & KEY OBSERVATIONS](#DASHBOARD-RECOMMENDATIONS-&-KEY-OBSERVATIONS)
+- [DASHBOARD RECOMMENDATIONS & KEY OBSERVATIONS](#DASHBOARD-RECOMMENDATIONS--KEY-OBSERVATIONS)
 - [TOOLS USED](#TOOLS-USED)
 ---
 
@@ -131,7 +131,6 @@ Displays quarterly sales distribution to identify peak demand periods and season
 ### Top 10 Models Page
 Highlights the top 10 sneaker models based on revenue performance, filtered by above-average sales and below-average damage rates.
 
----
 
 ## DASHBOARD RECOMMENDATIONS & KEY OBSERVATIONS
 
