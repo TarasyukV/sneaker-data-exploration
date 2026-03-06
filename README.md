@@ -1,5 +1,5 @@
 # Sneaker-Data-Exploration
-## Dashboard Preview
+## DASHBOARD PREVIEW
 
 <h3 align="center">Main Dashboard – Charts</h3>
 
@@ -15,7 +15,7 @@
 
 
 # TABLE OF CONTENT
-- [Dashboard link](#Dashboard link)
+- [DASHBOARD LINK](#DASHBOARD LINK)
 - [INTRODUCTION](#INTRODUCTION)
 - [DATASET INFORMATION](#dataset-information)
 - [DATA CLEANING & TRANSFORMATION](#DATA-CLEANING-TRANSFORMATION)
@@ -24,7 +24,7 @@
 ---
 
 
-## Interactive Dashboard (Tableau Public)
+## DASHBOARD LINK 
 
 You can explore the full interactive version of the dashboard on Tableau Public:
 
