@@ -13,6 +13,30 @@
 <img src="assets/top10.jpg" width="900">
 </p>
 
+
+# TABLE OF CONTENT
+- [Dashboard link](#Dashboard link)
+- [INTRODUCTION](#INTRODUCTION)
+- [DATASET INFORMATION](#dataset-information)
+- [DATA CLEANING & TRANSFORMATION](#DATA-CLEANING-TRANSFORMATION)
+- [DASHBOARD STRUCTURE](#DASHBOARD-STRUCTURE)
+- [TOOLS USED](#TOOLS-USED)
+---
+
+
+## Interactive Dashboard (Tableau Public)
+
+You can explore the full interactive version of the dashboard on Tableau Public:
+
+🔗 **[Open the Interactive Dashboard](https://public.tableau.com/app/profile/volodymyr.tarasyuk/viz/SneakersDashboard/Charts)**
+
+The Tableau dashboard allows you to:
+- Explore sneaker price trends
+- Analyze brand distribution
+- View the Top 10 most expensive sneakers
+- Interact with filters and charts
+
+
 ## INTRODUCTION
 
 The global sneaker market is highly competitive, with brands constantly balancing demand, inventory levels, and product condition. While some models generate strong revenue and high sell-through rates, others underperform due to damage rates, overproduction, or seasonal fluctuations.
@@ -21,13 +45,6 @@ This project explores a dataset of 500 sneaker models to analyze revenue perform
 
 By combining SQL-based aggregation with interactive visualization in Tableau, this analysis highlights which models truly drive revenue and which operational factors may limit performance.
 
-# TABLE OF CONTENT
-- [INTRODUCTION](#INTRODUCTION)
-- [DATASET INFORMATION](#dataset-information)
-- [DATA CLEANING & TRANSFORMATION](#DATA-CLEANING-TRANSFORMATION)
-- [DASHBOARD STRUCTURE](#DASHBOARD-STRUCTURE)
-- [TOOLS USED](#TOOLS-USED)
----
 
 ## DATASET INFORMATION 
 - Source: [Kaggle – 500 Sneakers Dataset](https://www.kaggle.com/datasets/comhek/500-snickers-dataset?select=snicker_dataset_with_dates.csv)
