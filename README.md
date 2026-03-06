@@ -20,6 +20,7 @@
 - [DATASET INFORMATION](#dataset-information)
 - [DATA CLEANING & TRANSFORMATION](#DATA-CLEANING-TRANSFORMATION)
 - [DASHBOARD STRUCTURE](#DASHBOARD-STRUCTURE)
+- [DASHBOARD RECOMMENDATIONS & KEY OBSERVATIONS](#DASHBOARD-RECOMMENDATIONS-&-KEY-OBSERVATIONS)
 - [TOOLS USED](#TOOLS-USED)
 ---
 
@@ -103,7 +104,7 @@ To enhance business analysis, additional calculated fields were introduced:
   `damaged * price`  
   Estimates revenue lost due to damaged units.
 
-## Dashboard Structure
+## DASHBOARD STRUCTURE
 
 This interactive dashboard provides a comprehensive view of sneaker market performance over 10 years, focusing on revenue, operational efficiency, and seasonal demand.
 
@@ -132,7 +133,7 @@ Highlights the top 10 sneaker models based on revenue performance, filtered by a
 
 ---
 
-## Dashboard Recommendations & Key Observations
+## DASHBOARD RECOMMENDATIONS & KEY OBSERVATIONS
 
 This dashboard is designed for **interactive exploration** of 10 years of sneaker sales data:
 
