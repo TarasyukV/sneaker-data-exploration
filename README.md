@@ -1,18 +1,17 @@
 # Sneaker-Data-Exploration
 ## Dashboard Preview
 
-### Main Dashboard – Charts
+<h3 align="center">Main Dashboard – Charts</h3>
 
 <p align="center">
 <img src="assets/main.jpg" width="900">
 </p>
 
-### Top 10 Sneakers
+<h3 align="center">Top 10 Sneakers</h3>
 
 <p align="center">
 <img src="assets/top10.jpg" width="900">
 </p>
-
 
 ## INTRODUCTION
 
