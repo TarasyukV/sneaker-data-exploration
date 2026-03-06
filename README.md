@@ -14,7 +14,6 @@ Main dashboard: **Charts** | Second sheet: **Top 10**
 
 
 
-
 ## INTRODUCTION
 
 The global sneaker market is highly competitive, with brands constantly balancing demand, inventory levels, and product condition. While some models generate strong revenue and high sell-through rates, others underperform due to damage rates, overproduction, or seasonal fluctuations.
