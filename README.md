@@ -1,8 +1,15 @@
 # Sneaker-Data-Exploration
-<p align="center">
-<img width="1309" height="809" alt="image" src="https://github.com/user-attachments/assets/f9a4cf4c-8bca-4e6c-a21c-38adf72011e2" /> 
-<img width="1275" height="774" alt="image" src="https://github.com/user-attachments/assets/0c3f7ed1-6cf6-4089-abb0-e48666851b9e" />
+## Dashboard Preview
 
+<p align="center">
+<a href="https://public.tableau.com/app/profile/volodymyr.tarasyuk/viz/SneakersDashboard/Charts">
+  <img src="assets/dashboard_main.png" width="900" alt="Sneakers Dashboard Preview"/>
+</a>
+</p>
+
+<p align="center">
+Click the image to open the interactive Tableau dashboard.  
+Main dashboard: **Charts** | Second sheet: **Top 10**
 </p>
 
 
