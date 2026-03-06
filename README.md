@@ -123,3 +123,10 @@ The selection criteria include:
 - below-average damage percentage
 
 This ensures that only **efficient and high-performing models** are highlighted.
+
+## TOOLS USED
+
+- SQL (data aggregation and filtering)
+- Microsoft Excel / Power Query (data preparation)
+- Tableau (interactive dashboard and visualization)
+- GitHub (project documentation and version control)
