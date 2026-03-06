@@ -14,7 +14,7 @@ The global sneaker market is highly competitive, with brands constantly balancin
 
 This project explores a dataset of 500 sneaker models to analyze revenue performance, sales efficiency, inventory health, and seasonality patterns. The goal is to identify high-performing models, measure the financial impact of product damage, and uncover trends that influence overall profitability.
 
-By combining SQL-based data aggregation with business-oriented metrics, this analysis highlights which models truly drive revenue and which factors may limit performance.
+By combining SQL-based aggregation with interactive visualization in Tableau, this analysis highlights which models truly drive revenue and which operational factors may limit performance.
 
 # TABLE OF CONTENT
 - [INTRODUCTION](#INTRODUCTION)
