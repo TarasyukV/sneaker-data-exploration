@@ -135,5 +135,5 @@ This ensures that only **efficient and high-performing models** are highlighted.
 
 - Microsoft Excel / Power Query (data preparation)
 - Tableau (interactive dashboard and visualization)
-- - SQL (data aggregation and filtering)
+- SQL (data aggregation and filtering)
 - GitHub (project documentation and version control)
