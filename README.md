@@ -34,7 +34,9 @@ You can explore the full interactive version of the dashboard on Tableau Public:
 The Tableau dashboard allows you to:
 - Explore sneaker price trends
 - Analyze brand distribution
-- View the Top 10 most expensive sneakers
+- View the Top 10 sneaker models by total revenue, filtered to include only models with:
+-- above-average sales percentage
+-- below-average damage rate
 - Interact with filters and charts
 
 
@@ -87,7 +89,6 @@ Since the analysis focuses on monthly and quarterly trends, daily-level granular
 
 #### RENAMING & STANDARDIZATION
 
-- `Unsold_Inventory` was renamed to `Total unsold` for consistency.
 - `Gender` values were standardized to `M` and `F`.
 - Special characters (apostrophes) were removed from product names to ensure compatibility with PostgreSQL.
 - Revenue columns were formatted for clarity and better visualization in Tableau.
