@@ -14,7 +14,7 @@
 </p>
 
 
-# TABLE OF CONTENT
+# TABLE OF CONTENTS
 - [DASHBOARD LINK](#DASHBOARD-LINK)
 - [INTRODUCTION](#INTRODUCTION)
 - [DATASET INFORMATION](#dataset-information)
@@ -51,6 +51,7 @@ By combining SQL-based aggregation with interactive visualization in Tableau, th
 ## DATASET INFORMATION 
 - Source: [Kaggle – 500 Sneakers Dataset](https://www.kaggle.com/datasets/comhek/500-snickers-dataset?select=snicker_dataset_with_dates.csv)
 - Rows: 500
+- Time range: 2015–2024
 #### FIELDS(after cleaning/transformation)
 - Name 
 - Type
