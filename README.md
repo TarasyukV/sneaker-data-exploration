@@ -134,8 +134,6 @@ Highlights the top 10 sneaker models based on revenue performance, filtered by a
 
 ## DASHBOARD RECOMMENDATIONS & KEY OBSERVATIONS
 
-## DASHBOARD RECOMMENDATIONS & KEY OBSERVATIONS
-
 This dashboard is designed for **interactive exploration** of 10 years of sneaker sales data.
 
 Users can dynamically analyze performance across different years and product categories.
