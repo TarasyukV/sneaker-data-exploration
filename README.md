@@ -36,7 +36,7 @@ The Tableau dashboard allows you to:
 - Analyze brand distribution
 - View the Top 10 sneaker models by total revenue, filtered to include only models with:
     above-average sales percentage
-    below-average damage rate
+   and below-average damage rate
 - Interact with filters and charts
 
 
