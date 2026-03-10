@@ -34,9 +34,8 @@ You can explore the full interactive version of the dashboard on Tableau Public:
 The Tableau dashboard allows you to:
 - Explore sneaker price trends
 - Analyze brand distribution
-- View the Top 10 sneaker models by total revenue, filtered to include only models with:
-    above-average sales percentage
-   and below-average damage rate
+- Explore the Top 10 sneaker models by total revenue, considering operational efficiency.
+Only models with above-average sales rates and below-average damage rates are included.
 - Interact with filters and charts
 
 
