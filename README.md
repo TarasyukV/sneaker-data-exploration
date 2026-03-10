@@ -134,15 +134,21 @@ Highlights the top 10 sneaker models based on revenue performance, filtered by a
 
 ## DASHBOARD RECOMMENDATIONS & KEY OBSERVATIONS
 
-This dashboard is designed for **interactive exploration** of 10 years of sneaker sales data:
+## DASHBOARD RECOMMENDATIONS & KEY OBSERVATIONS
 
-- Use the year filter to compare trends, sales, and top brands across different years.  
-- Track changes in average prices and sales volumes to identify growth or decline patterns.  
-- Pay attention to damaged items to assess potential risks and operational issues.  
-- Explore top-performing brands and models using dynamic sorting and filters.  
-- Switch between years and categories to discover trends without relying on a single fixed insight.  
+This dashboard is designed for **interactive exploration** of 10 years of sneaker sales data.
 
-> The dashboard supports flexible, on-demand analysis rather than static conclusions, providing a practical tool for business decisions and trend evaluation.
+Users can dynamically analyze performance across different years and product categories.
+
+Recommended analysis approaches:
+
+- Use the year selector to compare revenue trends and performance against the previous year.
+- Analyze changes in average price and performance to identify growth or decline patterns.
+- Monitor damaged inventory to evaluate potential operational inefficiencies.
+- Explore top-performing models filtered by both sales efficiency and damage rates.
+- Use category filters (gender, type, edition) to uncover hidden trends across segments.
+
+> Instead of presenting static conclusions, the dashboard supports flexible, on-demand analysis and enables users to discover insights depending on the selected year and filters.
 
 ## TOOLS USED
 
